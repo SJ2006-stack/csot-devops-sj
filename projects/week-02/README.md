@@ -83,15 +83,9 @@ The portal automatically picks up your repo's **latest commit** on submit and sh
 
 ---
 
-## 4. Late, partial, or "I'm stuck" submissions
-
-- **Late**: Submit anyway — capped at 50% credit for the mini-project. Better than zero.
-- **Partial**: Submit what works. Be honest in the *"Anything for the reviewer"* field of the form. Partial credit is real.
-- **Stuck**: Ask in your cohort group `#help` channel describing what you tried. Mentors check daily.
-
 ---
 
-## 5. Where things live (quick map)
+## 4. Where things live (quick map)
 
 ```text
 csot-devops/                                       ← upstream (this repo) — read-only for you
@@ -110,7 +104,7 @@ github.com/<you>/dockerized-app-week02/            ← YOUR project repo (separa
 
 ---
 
-## 6. FAQ
+## 5. FAQ
 
 **Q. Where do I submit?**
 On the contest portal: **[csot-devops.devclub.in/submission](https://csot-devops.devclub.in/submission)** → pick Week 2 → paste your public repo URL. Sign in with the same DevClub login you use for the contest. There is no separate Google form.
